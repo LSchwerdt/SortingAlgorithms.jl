@@ -75,6 +75,9 @@ Characteristics:
  - *O(√n)* auxilary memory usage.
  - *`O(n log n)` garuanteed runtime*.
 
+The paged merge is shown here, with the scratch space on the right.
+![gif example](assets/pagedMerge/pagedMerge_130_130.gif)
+
 ## References
  - https://link.springer.com/chapter/10.1007/BFb0016253
  - https://max-arbuzov.blogspot.com/2021/10/merge-sort-with-osqrtn-auxiliary-memory.html
